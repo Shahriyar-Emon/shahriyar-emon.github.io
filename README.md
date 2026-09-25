@@ -1,4 +1,4 @@
-# Sakib Mirza — Portfolio
+# Md. Shahriyar — Portfolio
 
 A personal portfolio site built around the theme **"My Journey as a CSE Student"** —
 who I am, what I'm learning, what I'm building, and where I'm going.
